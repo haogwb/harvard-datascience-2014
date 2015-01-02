@@ -16,4 +16,10 @@
 - We cover each week of CS109 that contains two lectures (Tue & Thu) in a single AIA lecture.
 - As a result of the accelerated schedule, quick pre-scan of the lecture slides is highly recommended.
 - Homeworks and viewing lecture videos are optional.
+- Each AIA data science lecture will be led by a lecture leader - volunteers are strongly welcome! Contact vuh@allenai.org.
+- Lecture leaders are encouraged to prepare more (doing homework/watch videos/add supplementary materials, for example based on own experience).
 
+## Schedule
+
+- Week #1, Jan 5: Introduction. What is data science? Why is it important? Who are we? Course overview. Statistical Summaries and Exploratory Data Analysis.
+- Week #2, Jan 12: Visualization Goals, Data Types, Statistical Graphs, Visual Attributes, Color, Design Principles, Exploring Data: Examples from baseball and global income. 
