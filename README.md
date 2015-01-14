@@ -21,5 +21,5 @@
 
 ## Schedule
 
-- Week #1, Jan 12: Introduction. What is data science? Why is it important? Who are we? Course overview. Statistical Summaries and Exploratory Data Analysis.
-- Week #2, Jan 26: Visualization Goals, Data Types, Statistical Graphs, Visual Attributes, Color, Design Principles, Exploring Data: Examples from baseball and global income. 
+- Week #1, Jan 14: Introduction. What is data science? Why is it important? Who are we? Course overview. Statistical Summaries and Exploratory Data Analysis.
+- Week #2, Jan 28: Visualization Goals, Data Types, Statistical Graphs, Visual Attributes, Color, Design Principles, Exploring Data: Examples from baseball and global income. 
